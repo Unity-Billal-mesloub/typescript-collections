@@ -1,11 +1,11 @@
-[TypeScript Collections](https://github.com/basarat/typescript-collections/)
+[TypeScript Collections](https://github.com/Unity-Billal-mesloub/typescript-collections/)
 ====================
 
 It is a complete, fully tested data structure library written in TypeScript.
 
 This project uses TypeScript Generics so you need TS 0.9 and above.
 
-[This projects supports UMD (Universal Module Definition)](https://github.com/umdjs/umd)
+[This projects supports UMD (Universal Module Definition)](https://github.com/Unity-Billal-mesloub/umd)
 
 [![NPM](https://nodei.co/npm-dl/typescript-collections.png?height=3)](https://nodei.co/npm/typescript-collections/)
 
@@ -197,7 +197,7 @@ john-1970
 Default Dictionary
 ---------------------
 
-Also known as `Factory Dictionary` [[ref.](https://github.com/basarat/typescript-collections/pull/47)]
+Also known as `Factory Dictionary` [[ref.](https://github.com/Unity-Billal-mesloub/typescript-collections/pull)]
 
 If a key doesn't exist, the Default Dictionary automatically creates it with `setDefault(defaultValue)`.
 
@@ -219,9 +219,3 @@ Supported platforms
 If it supports JavaScript, it probably supports this library.
 ```
 
-Contact
---------------------
-
-bas AT basarat.com
-
-Project is based on the excellent original javascript version called [buckets](https://github.com/mauriciosantos/buckets)
