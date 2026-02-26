@@ -59,7 +59,7 @@ The compiler will ensure that the collections contain the correct elements.
 A sample Visual Studio project is in the demo folder.
 
 Also available on NuGet : <http://www.nuget.org/packages/typescript.collections/>
-Thanks to <https://github.com/georgiosd>
+Thanks to <https://github.com/Unity-Billal-mesloub>
 
 Example
 --------------------
